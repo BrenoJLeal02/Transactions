@@ -18,7 +18,6 @@ export const Content = styled(Dialog.Content)`
     padding : 2.5rem 3rem;
     background: ${props => props.theme["gray-800"]};
 
-    //Dica para centralizar algo na tela independente do tamanho dela
     position: fixed;
     top:  50%;
     left: 50%;
