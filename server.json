@@ -71,6 +71,14 @@
       "type": "income",
       "createdAt": "2025-02-28T13:28:34.555Z",
       "id": 9
+    },
+    {
+      "description": "Ovo",
+      "category": "Alimentação",
+      "price": 10,
+      "type": "outcome",
+      "createdAt": "2025-03-12T16:06:54.372Z",
+      "id": 10
     }
   ]
 }
